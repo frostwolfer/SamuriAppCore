@@ -1,0 +1,11 @@
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\bin\Debug\netstandard2.0\SamuraiApp.Data.deps.json
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\bin\Debug\netstandard2.0\SamuraiApp.Data.dll
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\obj\Debug\netstandard2.0\SamuraiApp.Data.csprojResolveAssemblyReference.cache
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\obj\Debug\netstandard2.0\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\obj\Debug\netstandard2.0\SamuraiApp.Data.AssemblyInfoInputs.cache
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\obj\Debug\netstandard2.0\SamuraiApp.Data.AssemblyInfo.cs
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\bin\Debug\netstandard2.0\SamuraiApp.Data.pdb
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\bin\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\bin\Debug\netstandard2.0\SamuraiApp.Domain.pdb
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\obj\Debug\netstandard2.0\SamuraiApp.Data.dll
+C:\prj\EfCore\SamuraiCoreApp\SamuraiApp.Data\obj\Debug\netstandard2.0\SamuraiApp.Data.pdb
